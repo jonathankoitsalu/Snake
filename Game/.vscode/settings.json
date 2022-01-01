@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "state.h": "c",
+        "ssd1306.h": "c"
+    }
+}
